@@ -1,0 +1,95 @@
+<!DOTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>福助　Official Website</title>
+<link href="css/style.css" rel="stylesheet">
+</head>
+<body id="photograph">
+  
+<!--　headerの始まり　-->
+  <header>
+    <div class="logo"> 
+      <a href="index.html"></a>
+    </div>
+    <nav>
+      <ul class="global-nav">
+        <li><a href="portfolio.html">Portfolio</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+<!--  headerの終わり　-->
+  
+<!--  wrapの始まり　-->
+  <div id="wrap" class="clearfix">
+	<div class="content">
+		<div class="main">
+			<h1>Photograph</h1>
+			<p>これまでに撮影した写真作品を掲載しています。</p>
+			<section id="fuku">
+				<h2 class="icon">Fuku</h2>
+				<ul class="clearfix photograph-list">
+					<li><img src="imagebition/20160605_150253.jpg" alt="犬1"></li>
+					<li><img src="imagebition/20160721_215834.jpg" alt="犬2"></li>
+					<li><img src="imagebition/20161120_183854.jpg" alt="犬3"></li>
+					<li><img src="imagebition/20170529_213620.jpg" alt="犬4"></li>
+					<li><img src="imagebition/20180323_170750.jpg" alt="犬5"></li>
+					<li><img src="imagebition/20180617_225106.jpg" alt="犬6"></li>
+				</ul>
+			</section>
+			<section id="suke">
+				<h2 class="icon">Suke</h2>
+				<ul class="clearfix photograph-list">
+					<li><img src="imagebition/20180705_194450.jpg" alt="犬７"></li>
+					<li><img src="imagebition/20180705_200941.jpg" alt=""></li>
+					<li><img src="imagebition/20180707_225026.jpg" alt=""></li>
+					<li><img src="imagebition/20180710_210538.jpg" alt=""></li>
+					<li><img src="imagebition/20180906_221121.jpg" alt=""></li>
+					<li><img src="imagebition/20181009_181054.jpg" alt=""></li>
+				</ul>
+			</section>
+			<section id="bition">
+				<h2 class="icon">Bition</h2>
+				<ul class="clearfix photograph-list">
+					<li><img src="imagebition/20181025_143332.jpg" alt=""></li>
+					<li><img src="imagebition/1455698313146.jpg" alt=""></li>
+					<li><img src="imagebition/1555852668834.jpg" alt=""></li>
+					<li><img src="imagebition/IMG_20160816_203733.jpg" alt=""></li>
+					<li><img src="imagebition/IMG_20180628_134217_875.jpg" alt=""></li>
+					<li><img src="imagebition/IMG_20200331_173331_419.jpg" alt=""></li>
+				</ul>
+			</section>
+		</div>
+		<aside class="sidebar">
+			<section>
+				<h2>Photograph</h2>
+				<ul>
+					<li><a href="photograph.html#fuku">Fuku</a></li>
+					<li><a href="photograph.html#suke">Suke</a></li>
+					<li><a href="photograph.html#bition">Bition</a></li>
+				</ul>
+			</section>
+			<section>
+				<h2>Video</h2>
+				<url>
+					<li><a href="video.html#movie">Movie</a></li>
+					<li><a href="video.html#short-film"></a>Short film</li>
+				</url>
+			</section>
+		</aside>
+	</div>
+  </div>
+<!-- 　wrapの終わり　-->
+  
+<!--　footerの始まり　-->
+  <footer>
+    <small>hukusuke,stadio.</small>
+  </footer>
+<!--  footerの終わり　-->
+  
+  
+  
+</body>
+</html>

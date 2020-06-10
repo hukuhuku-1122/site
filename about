@@ -1,0 +1,77 @@
+<!DOTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>福助　official website</title>
+<link href="css/style.css" rel="stylesheet">
+</head>
+<body id="about">
+  
+<!--　headerの始まり　-->
+  <header>
+    <div class="logo"> 
+      <a href="index.html"></a>
+    </div>
+    <nav>
+      <ul class="global-nav">
+        <li><a href="portfolio.html">Portfolio</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+<!--  headerの終わり　-->
+  
+<!--  wrapの始まり　-->
+  <div id="wrap">
+	<div class="content">
+		<div class="main-center">
+			<h1>About</h1>
+			<p>ふくすけくんの、プロフィールや犬生（人生）の紹介ページです。</p>
+			<section class="profile clearfix">
+				<div class="profile-txt">
+					<h2 class="icon">Profile</h2>
+					<p><span>ビションフリーゼ代表：福助くん</span><br>老若男女問わず人間が好きなふくすけくん。犬も好きだがどちらかというと人好き。得意若いお姉さんが大好き♡<br>ペットショップに在籍後、母が一目惚れにてヘッドハンティングならぬペットハンティング。正式に家族の一員となる。<br>現在は、家族の一員として自宅警備に徹し、獣、郵便屋さんには容赦なく吠え続ける。私もたまに、、、。またこよなく愛想を振りまくスキルを生まれながらに習得済み。</p>
+				</div>
+				<img src="imagebition/20190622_223423.jpg" alt="山田太郎プロフィール画像" class="profile-image">
+			</section>
+			<section class="career">
+				<h2 class="icon">Career and wondeful Life</h2>
+				<table>
+					<tr>
+						<th>６か月くらい</th>
+						<td>母にその存在を見出される。</td>
+					</tr>
+					<tr>
+						<th>１歳</th>
+						<td>自宅警備員任命。ＯＴＥ、ＭＡＴＥを習得。</td>
+					</tr>
+					<tr>
+						<th>２歳</th>
+						<td>隙を見て父の散歩中脱走。アウトレットを駆け回る。</td>
+					</tr>
+					<tr>
+						<th>３歳</th>
+						<td>母の目を盗みコーヒーを飲む。そのおいしさに気づいてしまう。</td>
+					</tr>
+					<tr>
+						<th>４歳</th>
+						<td>２回目の脱走にて。父追いかけるも年齢のせいか、大転倒。</td>
+					</tr>
+				</table>
+			</section>
+		</div>
+	</div>
+  </div>
+<!-- 　wrapの終わり　-->
+  
+<!--　footerの始まり　-->
+  <footer>
+    <small>hukusuke,stadio.</small>
+  </footer>
+<!--  footerの終わり　-->
+  
+  
+  
+</body>
+</html>
